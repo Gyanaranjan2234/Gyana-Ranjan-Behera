@@ -1,6 +1,12 @@
 <!-- SECURITY COMMAND CENTER TERMINAL BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=1150&height=140&lines=$+root@offsec:~#+recon+target;$+subdomains+enumerated+successfully;$+testing+authentication+logic;$+access+control+bypass+confirmed;$+responsible+disclosure+initiated;$+mission+complete;$+welcome+to+gyana's+security+command+center" alt="Typing SVG" />
+<div align="center" style="background:black;padding:15px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+root@offsec:~#+recon+target" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+subdomains+enumerated+successfully" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+testing+authentication+logic" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+access+control+bypass+confirmed" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+responsible+disclosure+initiated" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+mission+complete" /><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=00FF00&duration=2000&pause=100000&lines=$+welcome+to+gyana's+security+command+center" />
 </div>
 
 
