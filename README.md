@@ -1,12 +1,14 @@
-<!-- MATRIX STYLE HACKER BANNER -->
+<!-- SECURITY COMMAND CENTER TERMINAL BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=1100&height=110&lines=01001000+01000001+01000011+01001011+01000101+01010010+00100000+01001101+01001111+01000100+01000101;$+INITIALIZING+PENETRATION+TESTING+ENVIRONMENT+.+.+.;$+BYPASSING+ACCESS+CONTROLS+.+.+.;$+VAPT+MODULE+LOADED+SUCCESSFULLY;$+BUG+BOUNTY+HUNT+IN+PROGRESS+.+.+.;$+SYSTEM+SECURED+BY+RESPONSIBLE+DISCLOSURE;$+WELCOME+TO+GYANA'S+CYBER+LAB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=1150&height=140&lines=$+root@offsec:~#+recon+target;$+subdomains+enumerated+successfully;$+testing+authentication+logic;$+access+control+bypass+confirmed;$+responsible+disclosure+initiated;$+mission+complete;$+welcome+to+gyana's+security+command+center" alt="Typing SVG" />
 </div>
 
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2200&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=80&lines=THREAT+HUNTER;VAPT+SPECIALIST;BUG+BOUNTY+RESEARCHER;WEB+SECURITY+ANALYST;CYBER+DEFENDER" alt="Cyber Identity" />
 </div>
+
 
 
 <!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
