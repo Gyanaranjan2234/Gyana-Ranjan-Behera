@@ -1,7 +1,8 @@
-<!-- SECURITY COMMAND CENTER TERMINAL BANNER -->
+<!-- MATRIX STYLE ANIMATED BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=1150&height=140&lines=$+root@offsec:~#+recon+target;$+subdomains+enumerated+successfully;$+testing+authentication+logic;$+access+control+bypass+confirmed;$+responsible+disclosure+initiated;$+mission+complete;;$+welcome+to+gyana's+security+command+center" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1100&height=110&lines=$+root@offsec:~#+recon+target;$+subdomains+enumerated+successfully;$+testing+authentication+logic;$+access+control+bypass+confirmed;$+responsible+disclosure+initiated;$+mission+complete;$+welcome+to+gyana's+security+command+center" alt="Typing SVG" />
 </div>
+
 
 
 
