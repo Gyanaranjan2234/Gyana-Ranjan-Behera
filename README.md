@@ -82,8 +82,9 @@
 ## 💡 Quote That Inspires Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=I+may+not+be+there+yet,+but+I’m+closer+than+I+was+yesterday." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=I+may+not+be+there+yet,+but+I'm+closer+than+I+was+yesterday." />
 </p>
+
 
 
 
